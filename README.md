@@ -26,4 +26,6 @@ Streamlit:
 This model is deployed using Streamlit web application.
 Pycharm is used where the code for the model is inherited from jupyter notebook
 and collaborated in pycharm by using pickle module.
+Each of the Constructer is transfered from model.py to app.py using pkl extensions.
+To create files of pkl extensions the code is written in model.py.
 

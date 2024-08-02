@@ -22,3 +22,8 @@ The detailed explanation is provided in the code section.
 Libraries:
 pandas, matplotlib, seaborn,opendatasets,sklearn and numpy
 
+Streamlit:
+This model is deployed using Streamlit web application.
+Pycharm is used where the code for the model is inherited from jupyter notebook
+and collaborated in pycharm by using pickle module.
+

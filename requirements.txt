@@ -4,5 +4,5 @@ seaborn
 streamlit
 pandas
 scikit-learn
-pickle
+
 

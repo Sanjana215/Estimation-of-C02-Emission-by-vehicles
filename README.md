@@ -32,5 +32,6 @@ and collaborated in pycharm by using pickle module.
 Each of the Constructer is transfered from model.py to app.py using pkl extensions.
 To create files of pkl extensions the code is written in model.py.
 When you run the model.py in pycharm the pkl extension files for each constructor will be created automatically.
+Manually, you need add all those pickle files into github and create requirements.txt file to deploy an app.
 .
 

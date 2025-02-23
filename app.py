@@ -4,9 +4,9 @@ import pickle as pk
 import streamlit as st
 from sklearn.model_selection import train_test_split
 
-model = pk.load(open('my_model.pkl', 'rb'))
-scaler = pk.load(open('scaler.pkl', 'rb'))
-encoder = pk.load(open('encoder.pkl', 'rb'))
+model = pk.load(open('pickle files/my_model.pkl', 'rb'))
+scaler = pk.load(open('pickle files/scaler.pkl', 'rb'))
+encoder = pk.load(open('pickle files/encoder.pkl', 'rb'))
 
 def bold_text(text):
     return f"**{text}**"
